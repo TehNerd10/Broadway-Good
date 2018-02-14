@@ -64,3 +64,12 @@ img{
   font-size: 18px;
   color: white;
 }
+
+p {
+  font-size: 11px;
+  color: white;
+}
+
+.footer {
+  background-color: dimgray;
+}
