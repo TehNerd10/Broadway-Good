@@ -59,3 +59,8 @@ img{
   color: white;
   background-color; dimgray;
 }
+
+.btn-nav {
+  font-size: 18px;
+  color: white;
+}
