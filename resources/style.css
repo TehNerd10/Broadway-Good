@@ -16,11 +16,11 @@ h1 {
 }
 
 h1, h4, h6 {
-  background-image: url("https://s3.amazonaws.com/codecademy-content/programs/freelance-one/broadway/images/the-flatiron-building.png")
+  background-image: url("https://s3.amazonaws.com/codecademy-content/programs/freelance-one/broadway/images/the-flatiron-building.png");
   text-align: center;
 }
 
-h4 {
+#navigation {
   font-size: 18px;
   text-align: center;
 }
@@ -38,6 +38,7 @@ h2, h3{
 
 h5 {
   text-align: center;
+  font-weight: normal;
 }
 
 h7 {
